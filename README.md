@@ -4,11 +4,11 @@
 
 ## The Idea
 
-Imagine your own kid(s) to be the main protagonist(s) in their own adventure stories. Imagine kids learning about important historic events, emotional skills, cultures, (your idea here) by hearing stories about themselves being exposed to these things. Imagine beautiful art accompanying these stories, showing them in the middle of it.
+Imagine your own kid(s) to be the protagonist(s) in their own adventure stories. Imagine kids learning about important historic events, emotional skills, cultures, (your idea here) by hearing stories about themselves being exposed to these things. Imagine beautiful art accompanying these stories, showing them in the middle of it.
 
-Now imagine that the models for story lines and art are shared as Open Source here on GitHub, with all the benefits that comes with it, like sharing, collaboration, forks! And the the models for your own kids are kept private on your own devices. To generate the final stories, the two would be combined on demand. The final results could be shared, of course, but don't have to be.
+Now imagine that the models for story lines and art are shared as Open Source here on GitHub, with all the benefits that come with it, like sharing, collaboration, forks! And the models for your own kids are kept private on your own devices. To generate the final stories, the two would be combined on demand. The final results could be shared, of course, but don't have to be.
 
-This is a non-profit, privacy-first, AI-critical exploration project. I personally have no idea what I'm doing yet if and how this will work, but I'll share what I learn and I'm inviting you all to learn with me!
+This is a non-profit, privacy-first, AI-critical exploration project. I personally have no idea what I'm doing yet, and if and how this will work, but I'll share what I learn and I'm inviting you all to learn with me!
 
 ## My personal Motivation
 
